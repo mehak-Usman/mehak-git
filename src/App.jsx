@@ -39,6 +39,7 @@ function App() {
 import React from 'react'
 
 function App() {
+  const a=1
   return (
     <div>App</div>
   )
@@ -46,4 +47,4 @@ function App() {
 
 export default App
 
-export default App
+export default App 
